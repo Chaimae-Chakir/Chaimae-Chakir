@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:552/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)]
 <h1 align="center">Hi 👋, I'm chaimae chakir</h1>
-<h3 align="center">A beginner passionate Full stack developer from Morocco</h3>
+<h3 align="center">A beginner passionate developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f092cbcef6f3b1d1e413fd4d18287cad?rik=j3i77ysBeGhvUQ&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20190821%2f6de8ad8bc6ae451999a4386824a42c5e.gif&ehk=6DskfTR5fZ9sMKs%2fhR9eFvqo075%2f2NeHyr%2b1%2bo37rAw%3d&risl=&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimae-chakir&label=Profile%20views&color=0e75b6&style=flat" alt="chaimae-chakir" /> </p>
 
