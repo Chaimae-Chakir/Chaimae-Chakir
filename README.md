@@ -1,26 +1,56 @@
-<h1 align="center">Hi 👋, I'm chaimae chakir</h1>
-<h3 align="center">A beginner passionate developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f092cbcef6f3b1d1e413fd4d18287cad?rik=j3i77ysBeGhvUQ&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20190821%2f6de8ad8bc6ae451999a4386824a42c5e.gif&ehk=6DskfTR5fZ9sMKs%2fhR9eFvqo075%2f2NeHyr%2b1%2bo37rAw%3d&risl=&pid=ImgRaw&r=0">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimae-chakir&label=Profile%20views&color=0e75b6&style=flat" alt="chaimae-chakir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chaimae chakir" target="blank"><img src="https://img.shields.io/twitter/follow/chaimae chakir?logo=twitter&style=for-the-badge" alt="chaimae chakir" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=967b7f&duration=2000&pause=1000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+CHAKIR+Chaimae;I'm+a+Software+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+</br>
+</br>
+<h1>😄 About Me </h1>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="150">
 
-- 🌱 I’m currently learning **angular**
+<p><em>Software engineering and distributed information systems student at <a href="https://www.enset-media.ac.ma/">ENSET Mohammedia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
+</em></p>
 
-- 📫 How to reach me **chaimaechakir24@gmail.com**
+- 🌱 &nbsp; I'm learning more about creating clean, efficient, and well-documented code.
+- 😄 &nbsp; In my free time, I enjoy participating in programming challenges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chaimae chakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaimae chakir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chaimae chakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae chakir" height="30" width="40" /></a>
-<a href="https://instagram.com/chaimae.ckr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaimae.ckr" height="30" width="40" /></a>
+
+<h1> 🛠 &nbsp;Tech Stack</h1>
+
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Spring](https://img.shields.io/badge/spring-333333?style==flat&logoColor=00599C&logo=spring)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Angular](https://img.shields.io/badge/angular-333333?style=flat&logo=angular&logoColor=007ACC)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+ 
+
+
+<h1> :fire: My Stats :</h1>
+<div align="center">
+  <br>
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CHAKIRChaimae&show_icons=true&count_private=true&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117" alt="CHAKIR github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKIRChaimae&hide=python&layout=compact&hide_border=true&title_color=787b7f&text_color=787b7f&bg_color=0d1117" />
+</div>
+  <a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHAKIRChaimae&theme=github_dark&show_icons=true" />
+  </a>
+</div>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/chaimae-chakir-9b00261b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-CHAKIR%20Chaimae%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://instagram.com/chaimae.ckr?igshid=ZDc4ODBmNjlmNQ=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chakir_chaimae-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:chaimaechakir24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chaimaechakir24@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimae-chakir&show_icons=true&locale=en&layout=compact" alt="chaimae-chakir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaimae-chakir&show_icons=true&locale=en" alt="chaimae-chakir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaimae-chakir&" alt="chaimae-chakir" /></p>
