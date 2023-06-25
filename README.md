@@ -9,7 +9,6 @@
 </em></p>
 
 - 🌱 &nbsp; I'm learning more about creating clean, efficient, and well-documented code.
-- 😄 &nbsp; In my free time, I enjoy participating in programming challenges.
 
 
 <h1> 🛠 &nbsp;Tech Stack</h1>
