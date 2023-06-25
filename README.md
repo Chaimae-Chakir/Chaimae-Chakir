@@ -40,10 +40,4 @@
   </a>
 </div>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-CHAKIR%20Chaimae%20-blue?style=flat-square&logo=linkedin">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-chakir_chaimae-blue?style=flat-square&logo=instagram">
-<img alt="Email" src="https://img.shields.io/badge/Email-chaimaechakir24@gmail.com-blue?style=flat-square&logo=gmail">
-</p>
 
