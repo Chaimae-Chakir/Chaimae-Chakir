@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chaimae 👋</h1>
 
 <p align="center">
-  Passionate full-stack software engineer with experience in Java, Spring Boot, Angular, and currently learning AWS Cloud services.
+  Passionate full-stack software engineer with experience in Java, Spring Boot, Angular.
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 - **Languages & Frameworks**: Java, Spring Boot, Angular, TypeScript  
 - **Testing**: JUnit, Mockito  
-- **DevOps**: Docker, GitHub Actions  
+- **DevOps**: Docker
 - **Databases**: MySQL, Oracle, PostgreSQL, MongoDB
 - **Other Tools**: Git, Swagger, Postman
 
@@ -28,12 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Chaimae-Chakir&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
----
 
-### 🌱 Currently Learning
-
-- Advanced AWS (Lambda, CloudFormation, ECS)
-- CI/CD with Gitlab Actions and Docker
 
 ---
 
